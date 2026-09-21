@@ -2,7 +2,7 @@
 
 **Java Backend Developer** with professional experience in **Java, Spring Boot, REST APIs, microservices, JPA/Hibernate and SQL**.
 
-I have worked on backend services in the digital payments domain, following the development flow from controllers and business logic to persistence, debugging, bug fixing and API integration. More recently, I have also worked on software quality, automation and internal tooling in an enterprise environment.
+I have worked on backend services in the digital payments domain, following the development flow from controllers to persistence, debugging, bug fixing and API integration. More recently, I have also worked on software quality, automation and internal tooling in an enterprise environment.
 
 ## Tech stack
 
@@ -18,7 +18,7 @@ I have worked on backend services in the digital payments domain, following the 
 
 **Testing & API tools**
 - JUnit, Mockito, MockMvc
-- Postman, Swagger / OpenAPI
+- Postman, Swagger
 
 **Architecture & development**
 - Microservices
@@ -32,14 +32,6 @@ I have worked on backend services in the digital payments domain, following the 
 - Docker, Kubernetes, Kafka
 - Spring Security, CI/CD
 - Python
-
-## Selected work
-
-### [Thesis Work](https://github.com/afi-glich/Thesis-work)
-MSc thesis project focused on integrating **POMDP-based decision making with PLANTOR**, implemented in Python. The pipeline goes from a relational representation of the world to a probabilistic model, solver-ready export and policy generation.
-
-### [BrainJob](https://github.com/afi-glich/brainjob)
-Individual Java backend project exposing REST endpoints for job management, organized around controller, model and repository layers.
 
 ## Current focus
 
